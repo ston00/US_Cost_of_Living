@@ -1,2 +1,2 @@
-# DMV_Cost_of_Living
+# US_Cost_of_Living
 displays cost of living around DC, Maryland, Virginia
