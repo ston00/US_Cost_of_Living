@@ -2,3 +2,6 @@
 displays cost of living around DC, Maryland, Virginia
 
 # User manual: 
+need React 19.0.0
+use this script to update if you already have React.
+npm install react react-dom
