@@ -1,0 +1,23 @@
+{
+  "name": "costofliving",
+  "version": "1.0.0",
+  "description": "displays living expenses around the US",
+  "homepage": "https://github.com/ston00/DMV_Cost_of_Living#readme",
+  "bugs": {
+    "url": "https://github.com/ston00/DMV_Cost_of_Living/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ston00/DMV_Cost_of_Living.git"
+  },
+  "license": "ISC",
+  "author": "steven",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "costofliving": "file:"
+  }
+}
